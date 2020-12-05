@@ -1,0 +1,1409 @@
+http://197.159.100.247:9000/ussd-emulator/createSession.php
+https://docs.google.com/spreadsheets/d/19Lo94MTBW37bYsRH9uiyoOzNB60hijzqRTgzvjy7sLY/edit#gid=285505837
+Email password
+
+Rt54#453ew@3 || Rt54#453ew@3
+
+aws educate
+everinyama@uofzmail.uz.ac.zw
+Vedzah95@s
+
+mysql -u root -p wallet_development -e "select source as 'Mobile Number', amount as 'Amount', columnB as 'Account Number', columnC as 'Service Name', dateCreated as 'Date Created', hubTransactionID as 'TransactionID' from ENSTransactions where columnC = 'ZOL' and dateCreated  between '24-06-2019 00:00' and '02-07-2019 00:00';" > Stanbic_ZOL_Failed_Trxnz.csv
+
+//==========================================================================================================================================
+mv /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/7_4_Stanbic_Bank_Zimbabwe_ussd_menu.php /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/7_4_Stanbic_Bank_Zimbabwe_ussd_menu_bak_01_July_2019.php
+
+scp /home/everinyama/7_4_Stanbic_Bank_Zimbabwe_ussd_menu.php /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/
+
+mv /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/7_4_Stanbic_Bank_Zimbabwe_ussd_menu_bak_01_July_2019.php /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/7_4_Stanbic_Bank_Zimbabwe_ussd_menu.php
+
+CPG password 
+https://cellulant.freshservice.com/itil/changes/new
+Vedzah95@s
+
+SELECT * FROM table1 ORDER BY id DESC LIMIT 3
+select * from c_channelRequests order by channelRequestID desc limit 5\G
+Your new secret key is: PKK2O457HEGS3HLP
+Your verification code is 554688
+Your emergency scratch codes are:
+  46181284
+  26007220F
+  35964984
+  78294169
+  77857104
+
+304     private $disableBuyData = true;
+
+zcat /data/zw/hub/Application/zw_PaymentPusherWrappers_info.log-20190506.gz | grep 'MADS0000052015'
+
+/var/log/applications/zw/hub4/hubChannels/profilingAPI/info.log
+
+SELECT paymentPushedDesc FROM s_requestLogs WHERE serviceID = ? AND MSISDN = ? AND dateCreated > DATE_SUB(NOW(), INTERVAL 5 DAY) ORDER BY dateCreated DESC LIMIT 1
+
+SELECT paymentPushedDesc FROM s_requestLogs WHERE serviceID = 17 AND MSISDN = 263773609857 AND dateCreated > DATE_SUB(NOW(), INTERVAL 5 DAY) ORDER BY dateCreated DESC LIMIT 1;
+
+============================================================================================================================================================================================================================================
+
+select amount, source as "MSISDN", destination as "Smart Card Number", dateCreated, columnC as "Service", processStatus from ENSTransactions where columnC = "DSTV" and dateCreated between '2018-10-21 14:14:00' and '2019-02-00 18:41:00';
+============================================================================================================================================================================================================================================
+
+263771893491 1112
+
+263774279618 
+
+348 private $disableNETONE = false;
+
+VPN Connect
+197.159.101.226
+U:everinyama s
+tep
+		VPN
+		sudo openconnect  197.159.101.226
+		eno5cK17$T
+		
+		ssh everinyama@jones.cellulant.com -p38000
+		
+		Rt54#453ew@3 || Rt54#453ew@3
+
+		227 live : eno5cK17$T || eno5cK17$T
+		
+		ssh everinyama@3.121.62.113 -p38000 || ssh everinyama@10.1.7.180 || ssh everinyama@morpheus.cellulant.com
+		
+		Rt54#453ew@3 || Rt54#453ew@3
+		
+		ssh everinyama@10.1.7.180 || 
+		
+		mycli -ueverinyama -h 10.1.7.232 hub_zw -p
+		
+		password bRotHeurow
+		
+		// och url
+		 https://pzaebkoch.za.sbicdirectory.com:8445/corp/XService
+		
+		
+		// tcp dump
+		tcpdump -Svv -w dump03052019.pcap
+		
+		tcpdump -Svv -w dump017072019.pcap
+
+===============================================================================================		
+
+VPN 
+sudo openconnect  197.159.101.226
+qwertyQAZ
+
+Jones
+ssh everinyama@jones.cellulant.com -p38000
+Rt54#453ew@3 || Rt54#453ew@3
+
+Trinity
+ssh everinyama@10.245.3.254 -p38000 || GIT || everinyama@197.159.100.229 -p38000
+eno5cK17$T || eno5cK17$T
+
+LIVE
+ssh everinyama@10.1.7.180 || .148 || .164 || .226 || morpheus mycli -ueverinyama -h 10.1.7.232 hub_zw -pbRotHeurow
+		
+eno5cK17$T
+
+Jump to Stanbic
+ssh everinyama@10.1.7.227
+ eno5cK17$T || eno5cK17$T
+
+UAT 
+Staging ssh everinyama@10.250.250.29 -p38000
+ eno5cK17$T || eno5cK17$T
+ 
+ssh everinyama@10.250.250.77
+tail -f /var/log/applications/zw/walletTouchAPIs/index/*
+			   	qwertyQAZ 
+
+JUMP to aws
+ssh 3.121.62.113 -p38000 // use your trinity password
+eno5cK17$T || eno5cK17$T
+
+
+mysql -u everinyama -h ma-db.cyo4n0yy0isg.eu-west-1.rds.amazonaws.com hub_zw -p
+
+mycli -u everinyama -h ma-db.cyo4n0yy0isg.eu-west-1.rds.amazonaws.com hub_zw -p
+
+everinyama : Sqj7Sw47HFpvMnjkV$ || Sqj7Sw47HFpvMnjkV$
+
+mycli -ueverinyama -h 10.1.7.232 hub_zw -e "select distinct MSISDN as 'Mobile Number', date(p.dateCreated) as date  from s_payments p  where p.payerClientID in (14,22) and p.serviceID in (8,13,44)  and p.dateCreated between '2018-01-01 00:00:00' and '2019-07-02 00:00:00' group by MSISDN;" > 365_Unique_Numbers_2019.csv 
+
+
+
+SVN
+http://41.84.155.54/wsvn/?repname=integrations
+enoch.verinyama:49PK&eW@}
+
+
+Staging ssh everinyama@10.250.250.29 -p38000
+                                   Tyr45#44246jg* || Tyr45#44246jg*
+
+ssh everinyama@10.250.250.77
+tail -f /var/log/applications/zw/walletTouchAPIs/index/*
+			   	qwertyQAZ
+DMZ
+
+from 10.250.250.77 
+ssh root@196.8.147.154 c3llul@nt2018
+
+/var/log/applications/zw/hub4/hubChannels/ussd/walletRequests.log
+https://196.8.145.151:8360/wallet/IS_APIs/CustomerRegistration/fetchCustomerData
+
+root@196.8.147.154 c3llul@nt2018
+
+sudo rpm -ivh cybereason-sensor-18.1.71.0-1.x86_64_stdb_firebird-r.cybereason.net_443_ACTIVE_NORMAL_rpm.rpm
+
+
+select * from ENSTransactions where source = 263773687408 order by ENSTransactionsID desc limit 1\G
+
+=====================================================================================================
+
+UAT reg url
+curl -ikv https://localhost:8360/wallet/Cloud_APIs/index/
+
+========================================================================================================
+
+// Archiving data
+
+        mysql -h "server-name" -u "your_username" "-pyour_password" "database-name" < "filename.sql"
+        mysql --host=localhost --user=your_username --password=your_password  -e "filename.sql"
+        mysql -u <user> -p<password> <dbname> < /path/to/file.sql
+        
+        mysql -u root -p wallet_development -e "select * from profiles;" > Stanbic_Profile_Data20190304.csv
+	
+        
+        mysql -u root -p wallet_development < /home/wallet_archive_procedure.sql
+		
+		mysql -u root -p wallet_development < wallet_archive_procedure.sql
+        
+        mysql  Ver 14.14 Distrib 5.5.35, for Linux (x86_64) using readline 5.1
+		
+        
+=====================================================================================
+
+//Export DB
+mysqldump -u root -p mydatabase > /home/myuser/database-dump.sql
+ 
+mysqldump -u root -p wallet_development > /home/wallet_development.sql      
+
+mysqldump -u everinyama -h 10.1.7.232 hub_zw > /home/everinyama/hubZW-dump.sql
+
+mysql -u everinyama -h ma-db.cyo4n0yy0isg.eu-west-1.rds.amazonaws.com hub_zw -p
+
+mycli -u everinyama -h ma-db.cyo4n0yy0isg.eu-west-1.rds.amazonaws.com hub_zw > /home/everinyama/hub-aws-ZW-dump.sql
+        		
+===================================================================================
+// Import DB
+
+	CREATE DATABASE newdatabase;
+	mysql -u [username] -p newdatabase < [database name].sql
+	
+	mysql -u root -p wallet_development < /Downloads/wallet_development.sql
+	
+	mysql -u root -p wallet_development < wallet_development.sql
+	
+//Export DB	
+	CREATE DATABASE wallet_development;
+	mysqldump -u root -p wallet_development > /Downloads/wallet_development.sql 
+	     
+===================================================================================================
+//Failover 365
+disable validation with ndasenda, menu
+
+// .164
+
+/var/www/html-zw/Ecocash/index.php // change value in config
+/var/www/html-zw/Ecocash/libs/Config.php
+
+line 85 const ZB_SERVICE_ID = 44; //8;
+line 90 const TELONE_SERVICE_ID = 44; //8;
+
+// failover 247
+disable validation with ndasenda, menu
+
+select * from merchants where merchantCode = 'ZESA';
+13 telone, 8 ZB, 44 Ndasenda
+
+update merchants set beepServiceID = 8 where merchantCode = 'ZESA';
+
+=============================================================================================
+
+mkdir -p /var/log/applications/wallet3/wallet/runtime
+chown -R apache:apache /var/log/applications/wallet3/wallet/runtime 
+
+mkdir -p /home/patricksapi/logs/backup/bak27042019/
+mkdir -p /home/patricksapi/logs/backup/2019/03/11/
+
+mkdir -p /home/patricksapi/logs/backup/bak08042019/
+
+cp /var/log/applications/wallet3/wallet/DEBUG_INFO.log /home/patricksapi/logs/backup/bak06052019/
+
+cp /var/log/applications/wallet3/wallet/AUDITLOG.log /home/patricksapi/logs/backup/bak06052019/
+
+cp /var/log/applications/wallet3/wallet/ERROR.log /home/patricksapi/logs/backup/bak06052019/
+
+=============================================================================================================================================
+
+delete from accounts where profileID = 12275 and date(dateCreated) = date(now());
+
+update accounts set active = 1, accountNumber = accountNumberArchived, accountAlias = accountAliasArchived where profileID = 2384 and year(dateCreated) in (2019,2018);
+
+update accounts set accountNumberArchived = null, accountAliasArchived = null where profileID = 2384 and year(dateCreated) in (2019,2018);
+
+==============================================================================================
+.227
+/etc/init.d/cbsintegrator.sh stop
+/srv/applications/MWALLET3/web/wallet/protected/config/development/customerProfiles.php
+rm /var/log/applications/wallet3/wallet/.DEBUG_INFO.log.swp
+rm /var/log/applications/wallet3/wallet/.ERROR.log.sw*
+mysql
+SHOW ENGINE INNODB STATUS
+
+
+==============================================================================================================================================================================
+select ens.amount, ens.source as "MSISDN", ens.destination as "Smart Card Number", ens.dateCreated, ens.columnC as "Service", c.surname as "Name"  from ENSTransactions ens join profiles p on p.MSISDN = ens.source join customers c on c.customerID = p.customerID where columnC = "DSTV" and dateCreated between '2018-10-21 14:14:00' and '2019-02-00 18:41:00';
+
+
+select ens.amount, ens.source as "MSISDN", ens.destination as "Smart Card Number", ens.dateCreated, ens.columnC as "Service", c.surname as "Name"  from ENSTransactions ens join profiles p on p.MSISDN = ens.source join customers c on c.customerID = p.customerID where columnC = "DSTV" and dateCreated between '2019-02-01 00:00:00' and '2019-03-01 00:00:00';
+
+
+select distinct c.surname, p.MSISDN from customers c join profiles p on c.customerID = p.customerID where p.MSISDN in (263772322890,263772165787,263772372943,263719988694,263773020993,263772844944,263773443053,263773654971,263778931232,263773039428,263773429107,263772413558,263777375275,263772713526,263773580515,263776116151,263772401775,263772767235,263777369553,263772881602,263778731296,263772961670,263771648977,263772959333,263772867673,263772767830,263772166351,263773369374,263783365768,263772150809,263773370336,263772964658,263772679419,263717055268,263772867678,263771358199,263775604852,263772715798,263772406024,263773374026,263772489472,263777054699,263719229523,263773087583,263772266461,263772808687,263772977779,263775447256,263773656633,263773657374,263777501794,263773216930,263771102931,263772422088,263779647935,263772316600,263772859540,263772594273,263774381843,263778898144,263772630486,263772876014,263774054727,263774862289,263772354990,263773019511,263773293367,263773440207,263775092667,263772562435,263777321325,263772862237,263775290615,263772626848,263772217756,263772366830,263779247552,263772888877,263772586094,263772847149,263778470447,263772323205,263776378810,263772369143,263773049221,263772807367,263772418074,263777766400,263772807898,263782683038,263712584926,263772972314,263773377589,263772425574,263772430417,263773609857,263772107861,263772104012,263773063046,263775251372,263777571505,263777745930,263772332988,263772882533,263772979383,263773218836,263774499491,263774756241,263777074744,263772402880,263739259744,263783692410,263772396219,263774350461,263775990724,263775010721,263773754987,263771226032,263773518569,263772381002,263772544312,263773442195,263737667988,263771769786,263772949629,263779765171,263772568361,263772428242,263772603745,263773397470,263773015196,263775062181,263772614755,263779800074,263772254502,263773203546,263773036226,263772701472,263773795357,263772856395,263772324579,263772447423,263772400787,263779001476,263773265573,263777795774,263772368508,263773371732,263773654476,263773049039,263773922247,263782725711,263733475211,263734581434,263773910156,263772914976,263772620314,263772331342,263734375864,263772252564,263773276719,263772383438,263772679416,263772945562,263772904471,263773390598,263772946949,263773296952,263774583922,263772219478,263773374203,263773099047,263772695975,263772468955,263777377984,263772425740,263773416444,263773361707,263773069732,263772387948,263772232677,263779173583,263772432601,263772584679,263715272585,263772345333,263773051509,263774431218,263772809705,263775952219,263773445038,263772392532,263779878866,263775507674,263772446276,263775742729,263772682974,263777439045,263775856919,263772394459,263779878867,263773604583,263772272962,263773168074,263772967866,263772635662,263772489169,263774091179,263772969034,263778208098,263773430043,263772269492,263772574332,263772858915,263774396484,263772558086,263772320585,263772979660,263772358411,263773442185,263773931581,263772225318,263736480982,263772593223,263772342354,263785604244,263773931260,263773454443,263737961234,263772753594,263771893491,263773620580,263772413558,263772901548,263784357432,263778007957,263772262726,263772595283,263773411327,263772249814,263715244832,263774337779,263773276777,263772943538,263772990550,263772358189,263774176697,263775424517,263782628523,263772238902,263776070570,263772443574,263772713526,263775534623,263772384419,263772804414,263772545639,263776116151,263772327770,263772351546,263772805213,263772596984,263772383471,263772844944,263772545148,263773029585,263777297415,263772390806,263773740982,263784768192,263777087078,263772263788,263773542253,263772432620,263773934765,263774402198,263772254934,263772477289,263772528893,263772565855,263772479202,263773375552,263777657279,263773368092,263772277178,263772428818,263772376617,263772730886,263776086203,263773101263,263772934347,263773531896,263771929182,263773462109,263773489899,263776937089,263777504221,263772913472,263772934334,263716386154,263772973569,263772541859,263712325684,263773597809,263772940179,263773462631,263773388900,263774419361,263773302378,263712297310,263772324417,263772513307,263773010494,263773070526,263784245518,263775206661,263772941207,263777725245,263772701450,263772646488,263773654972,263774352700,263719229523,263772591796,263775033818,263772941158,263772809095,263772384766,263773654978,263773910157,263772628666,263772479708,263773267608,263772616025,263772446600,263736688105,263772395647,263773026988,263772963115,263717901914,263772256281,263775179066,263776933007,263777431303,263772366254,263772420507,263773434499,263772260396,263773795294,263772389013,263773443053,263772492565,263773386171,263772960616,263772816557,263776829093,263772911048,263782087800,263772679419,263778470447,263772252247,263773050010,263772915282,263772675161,263772104448,263777830296,263773200526,263772270400,263719988694,263772102751,263775320444,263773571818,263777861132,263772843542,263773578008,263772491427,263771358199,263772968779,263772490030,263773019511,263772257951);
+
+
+select accountID as 'ID', currencyID as 'CurrencyID', tariffID as 'TariffID', accountNumber as 'AccountNumber', accountAlias as 'AccountAlias' from accounts;
+
+mysql -u root -p wallet_development -e "select accountID as 'ID', currencyID as 'CurrencyID', tariffID as 'TariffID', accountNumber as 'AccountNumber', accountAlias as 'AccountAlias' from accounts;" > Stanbic_Accounts_Data20190316.csv
+
+mysql -u root -p wallet_development -e "select * from profiles;" > Stanbic_Profile_Data20190304.csv
+
+
+============================================
+
+
+
+select distinct c.surname, p.MSISDN from customers c join profiles p on c.customerID = p.customerID where p.MSISDN in
+
+select * from s_outMessages where source = 'JET' and  message like '%Jet a/c%' order by outMessageID desc limit 2\G 
+
+select * from s_outMessages m join s_payemnt s on m.source = 'JET' and m.message like '%Jet a/c%' order by outMessageID desc limit 2\G
+
+=======================================================================================================================================
+
+SHOW ENGINE InnoDB STATUS;
+
+show open tables where in_use>0;
+
+show processlist;
+
+kill 124903;
+Query OK, 0 rows affected (0.00 sec)
+
+=============================================================================================================================================
+
+show variables like '%wait_timeout%';
++--------------------------+----------+
+| Variable_name            | Value    |
++--------------------------+----------+
+| innodb_lock_wait_timeout | 50       |
+| lock_wait_timeout        | 31536000 |
+| wait_timeout             | 28800    |
+
+
+show variables like '%tx_isolation%';
+SELECT @@GLOBAL.tx_isolation, @@tx_isolation;
+
+SET GLOBAL innodb_lock_wait_timeout = 5000;
+SET innodb_lock_wait_timeout = 5000; 
+
+service mysqld status
+service mysqld stop
+service mysqld start
+
+
+sudo /etc/init.d/mysql restart
+
+SELECT table_schema AS "Wallet DB", 
+ROUND(SUM(data_length + index_length) / 1024 / 1024, 2) AS "Size in (MB)" 
+FROM information_schema.TABLES 
+GROUP BY table_schema;
+
++------------------------------+--------------+
+| Wallet DB                    | Size in (MB) |
++------------------------------+--------------+
+| cellulantTouch_v3            |         5.69 |
+| hub4                         |         5.19 |
+| hub4_3                       |       248.95 |
+| information_schema           |         0.01 |
+| mysql                        |         0.64 |
+| performance_schema           |         0.00 |
+| samsung_emulator             |         0.16 |
+| walletDB                     |        77.44 |
+| wallet_deleted               |         0.27 |
+| wallet_development           |     50436.23 |
+| wallet_development_warehouse |         1.77 |
+
+
+
+//Check InnoDB status for locks
+SHOW ENGINE InnoDB STATUS;
+
+//Check MySQL open tables
+SHOW OPEN TABLES WHERE In_use > 0;
+
+//Check pending InnoDB transactions
+SELECT * FROM `information_schema`.`innodb_trx` ORDER BY `trx_started`; 
+
+//Check lock dependency - what blocks what
+SELECT * FROM `information_schema`.`innodb_locks`;
+
+
+SHOW PROCESSLIST;
+
+KILL 115;
+
+
+SELECT * FROM `information_schema`.`innodb_trx` ORDER BY `trx_started`;
+KILL 1234;
+
+========================================================
+
+Staging MNO 2s 10.250.250t
+ / u8tP9ss# // 890t8tyed56
+
+EMG sms server 10.1.7.226
+l1v3!@#$%
+
+Jump server 10.1.7.227
+n3wP@s58D
+
+stagingHUB
+
+ <entry key="DbUserName">paymentpusher_ke</entry>
+    <entry key="DbPassword">p@ym3ntpysh3r</entry>
+    <entry key="DbHost">KE-Hub4-DB1</entry>
+    <entry key="DbPort">3306</entry>
+    <entry key="DbName">hub_ke</entry>
+
+
+mysql -hKE-Hub4-DB -upaymentpusher_ke  -pp@ym3ntpysh3r hub_ke
+
+DB Jump Sever server ssh everinyama@10.252.252.188
+t4u3s!ejiH0L
+
+DB Jump Sever server
+ssh everinyama@morpheus.cellulant.com
+t4u3s!ejiH0L
+mycli - u everinyama -h 10.1.7.235
+
+mycli -ueverinyama -h 10.1.7.232 hub_zw -pbRotHeurow
+
+
+
+mysql -ueverinyama -h 10.1.7.232 hub_zw -pbRotHeurow
+
+mysql -ueverinyama -h 10.1.7.44 hub_zw
+
+
+Change Gear credentials
+ernestm
+qwerty@123
+http://54.75.246.178/CGWeb/Login.aspx
+
+=================================================================================================================
+Ndasenda
+https://ndasenda.com/Agent/login
+90600000005
+120405
+
+90600000006
+277991
+=================================================================================================================
+
+Bulk sms
+http://portal.bulksmsweb.com/index.php?app=main&inc=feature_report&route=user_outgoing&op=user_outgoing
+stanbic
+c3llul@nt
+
+Cellulant
+weqxb
+================================================================================================================
+
+Hot Recharge
+https://ssl.hot.co.zw/
+
+=================================================================================================================
+
+//FCA VANNILA TRXNS
+
+SELECT date(transactions.dateCreated) Date, count(transactionID) TotalTrx, count(if(transactions.overalStatusCode = '1',1,null)) SuccessfulTrx, count(if(transactions.overalStatusCode = '4',1,null)) FailedTrx, services.serviceName  FROM transactions inner join requests on requests.requestID = transactions.requestID left join services on services.serviceID = transactions.serviceID left join accounts on accounts.accountID = transactions.accountID inner join cloudPackets on cloudPackets.cloudPacketID = requests.cloudPacketID WHERE transactions.dateCreated BETWEEN '2019-06-01 00:00:00' and '2019-07-01 00:00:00' and transactions.overalStatusCode in (0,1,2,3,4,5,6) and accounts.tariffID = 6 and  IMCID = '2' group by Date, transactions.serviceID;
+
+SELECT date(transactions.dateCreated) Date, count(transactionID) TotalTrx, count(if(transactions.overalStatusCode = '1',1,null))
+ SuccessfulTrx, count(if(transactions.overalStatusCode = '4',1,null)) FailedTrx, services.serviceName  
+ FROM transactions inner join requests on requests.requestID = transactions.requestID left join services on services.serviceID = transactions.serviceID 
+ left join accounts on accounts.accountID = transactions.accountID inner join cloudPackets on cloudPackets.cloudPacketID = requests.cloudPacketID 
+ WHERE transactions.dateCreated BETWEEN '2019-05-01 00:00:00' and '2019-06-01 00:00:00' and transactions.overalStatusCode in (0,1,2,3,4,5,6) 
+ and accounts.tariffID = 6 and  IMCID = '2' group by Date, transactions.serviceID;
+ 
+// Unique FCA trxs
+ 
+select month(t.dateCreated) Month, count(distinct t.profileID) as UniqueTransactors from transactions t inner join services s on s.serviceID = t.serviceID where year(t.dateCreated) >= '$ldate' and t.overalStatusCode in (0,1,2,3,4,5,6) and t.profileID not in (0) group by Month with rollup;
+
+select month(t.dateCreated) Month, count(distinct t.profileID) as UniqueTransactors from transactions t inner join services s on s.serviceID = t.serviceID 
+where year(t.dateCreated) >= '$ldate' and t.overalStatusCode in (0,1,2,3,4,5,6) and t.profileID 
+not in (0) group by Month with rollup;
+
+select month(t.dateCreated) Month, count(distinct t.profileID) as UniqueTransactors from transactions t inner join services s on s.serviceID = t.serviceID 
+where year(t.dateCreated) BETWEEN '2019-05-01 00:00:00' and '2019-06-01 00:00:00' and t.overalStatusCode in (0,1,2,3,4,5,6) and t.profileID 
+not in (0) group by Month with rollup;
+
+on .227
+
+https://pzaebkoch.za.sbicdirectory.com:8445/corp/XService
+
+scp root@196.8.145.151:/etc/pki/tls/sba_cellulant/mw_cellulant_com.crt
+
+scp root@196.8.145.151:/var/www/html/statsApp/SBAWalletStats20190520.csv ~
+
+scp root@10.237.61.42:/var/www/html/statsApp/SBAWalletStats20190201.csv ~
+
+on .254
+
+scp verinyama@10.1.7.227:/home/verinyama/SBAWalletStats20190519.csv /home/everinyama/
+
+scp -P38000 Documents/mw_cellulant_com.crt everinyama@10.245.3.254:/home/everinyama/
+scp -P38000 /home/everinyama/HotRechargeDataBundlesProcessor.php everinyama@:10.250.250.29/home/everinyama/
+scp -P38000 HotRechargeDataBundlesProcessor.php 10.250.250.29:
+
+
+
+ls -l /etc/pki/tls/certs/sba_cellulant/sba_cellulant_com.key
+total 16
+-rw-r--r-- 1 root root 1674 Nov  9 15:16 DigiCertCA.crt
+-rw-r--r-- 1 root root 2404 Nov  9 15:16 mw_cellulant_com.crt
+-rw-r--r-- 1 root root 1139 Nov  9 15:16 sba_cellulant_com.csr
+-rw-r--r-- 1 root root 1675 Nov  9 15:16 sba_cellulant_com.key
+
+
+scp everinyama@10.1.7.227:SBAWalletStats20180401.csv ~
+
+mysql -u root -p wallet_development -e "select * from profiles;" > Stanbic_Profile_Data20190212.csv
+
+
+scp -P38000 test_payment.php 10.250.250.29:
+
+
+scp -P38000 mw_cellulant_com.crt 196.8.145.148:
+
+scp -r sba_cellulant root@196.8.145.148:
+
+scp everinyama@10.1.7.180:TeloneConfigs ~ /home/everinyama
+
+scp -P38000 10.250.250.29:dstvwhitelist.php /var/www/html-ke/hub/channels/Menus/dynamic_menus/
+scp -P38000 10.250.250.29:TelonePaymentProcessor.php /everinyama/
+
+
+on.227
+
+
+scp root@196.8.145.151:Stanbic_Profile_Data20181017.csv ~
+
+
+on .148
+scp everinyama@10.1.7.148: /home/everinyama/
+
+scp everinyama@10.1.7.148:/home/everinyama/zw_ussd_info.log-20181013.gz
+scp everinyama@10.1.7.148:/data/zw/hub/Application/zw_ussd_info.log-20181014.gz /home/everinyama
+scp everinyama@10.1.7.148:/data/zw/hub/Application/zw_TELECELZWH4_info.log-20180720.gz /home/everinyama
+
+
+on .180
+scp everinyama@10.1.7.180:/var/log/applications/zw/hub/PaymentPusherWrappers/zw_PaymentPusherWrappers_info.log-20181024.gz /home/everinyama
+
+/data/zw/hub/Application/zw_PaymentPusherWrappers_debug.log-20180805.gz
+
+
+
+on .254
+
+scp everinyama@10.1.7.148:/apps/zw/hub4/daemons/NETONE_ZW ~ /home/everinyama
+scp everinyama@10.1.7.180:/home/everinyama/HotRechargeProcessor.php /home/everinyama
+scp everinyama@10.1.7.180:/home/everinyama/HotRechargeConfig.php /home/everinyama
+
+
+
+scp everinyama@10.1.7.148:/home/everinyama/zw_ussd_info.log-20181013.gz /home/everinyama
+
+scp everinyama@10.1.7.148:/home/everinyama/zw_TELECELZWH4_info.log-20181023.gz /home/everinyama
+
+
+scp everinyama@10.1.7.180:/home/everinyama/zw_PaymentPusherWrappers_info.log-20181024.gz /home/everinyama
+
+scp everinyama@10.1.7.227:/home/everinyama/Stanbic_Profile_Data20181017.csv /home/everinyama
+
+
+from local terminal
+scp -P38000 everinyama@10.245.3.254:/home/everinyama/SBAWalletStats20180201.csv Documents/
+
+scp -P38000 everinyama@10.245.3.254:/home/everinyama/Stanbic_Profile_Data20181017.csv Documents/
+
+scp -P38000 everinyama@10.245.3.254:/home/everinyama/zw_TELECELZWH4_info.log-20181023.gz Documents/
+scp -P38000 everinyama@10.245.3.254:/home/everinyama/zw_PaymentPusherWrappers_info.log-20181024.gz Documents/
+
+
+
+
+sudo cp dstvwhitelist.php /var/www/html-ke/hub/channels/ussdMenus/dynamic_menus/
+
+
+======================================================================================
+
+Apache logs ; 164
+/var/log/httpd/9809zw-h4.cellulant.com-access_log
+
+
+
+scp everinyama@10.245.3.254:/home/everinyama/SBAWalletStats20180919.csv Downloads/
+
+scp /Users/username/Desktop/11.jpeg username@domain:/home/xxx/xxx
+
+scp your_path_to_the_file/the_file root@10.145.198.100:~/
+
+
+
+scp /Documents/work/dstvwhitelist.php root@10.245.3.254:/home/everinyama/
+
+scp /Downloads/TELECELZWH4 root@10.245.3.254:/home/everinyama/
+
+
+
+/var/www/html-ke/hub/channels/ussdMenus/dynamic_menus/
+
+===================================================================================================================
+
+net one gateway
+log on .148
+the ping 64.86.26.227
+
+usermod -aG wheel everinyama
+
+.180
+ls /apps/zw/hub4/daemons/hubServices/PaymentPusher
+
+.29
+cd /apps/liveApps/ke/hub4/paymentGateway/paymentPusher/
+nano /apps/liveApps/ke/hub4/paymentGateway/paymentPusher/conf/PaymentPusherConfigs.xml
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+========================================================================================================================================
+UP TIME QUERIES
+
+
+mysql -u logosUser -p -h tank -e "select date(dateCreated), count(if(finalStatusCode in (1,2),1,NULL)) as Up, count(if(finalStatusCode in (3,4),1,NULL)) as Down, count(*) from monitoring.ussdDialsSimulatorsV2 where id >= 11528481 and date(dateCreated) >= '2017-04-01' and date(dateCreated) < '2017-05-01' and  ussdCode = '247' group by 1;" > USSD_UPTIME_APR_STANBIC_STATS.xls
+
+server ssh psapi@10.1.6.31
+password : p@tr!ck
+
+.148
+Log path /var/log/applications/zw/hubServices/daemons/Econeth/*.log
+
+  /var/log/applications/zw/hubServices/daemons/Econet/ECONET_Info.log
+
+  /var/log/applications/zw/hubServices/daemons/TelecelMB/*.log
+
+   /apps/zw/hub4/daemons/ECONETH4/
+
+
+
+
+
+DB password
+theC30
+
+-to get files from 10.1.6.31
+scp psapi@10.1.6.31:USSD_UPTIME_APR_BARCLAYS_STATS.xls /home/psapi/
+
+========================================================================================================================================
+
+
++-------------+------+--------------------------------------+
+| paymentMode | num  | serviceName                          |
++-------------+------+--------------------------------------+
+| MOBILE      |   48 | DSTV                                 |
+| ONLINE      |   58 | DSTV                                 |
+| ONLINE      |    3 | Telecel - ZimSwitch Airtime          |
+| MOBILE      | 2543 | Econet Airtime                       |
+| ONLINE      |   76 | Econet Airtime                       |
+| ONLINE      |    6 | Hot Recharge Airtime                 |
+| MOBILE      |  129 | Telecel Topup Mobile Banking         |
+| MOBILE      |  198 | HOT Recharge Netone ZIM - BBZIM USSD |
+
+
+select r.paymentMode , count(*) as num, ss.serviceName from s_requestLogs r join s_payments p on r.requestLogID = p.requestLogID inner join s_services ss on r.serviceID = ss.serviceID where p.payerClientID = 3 and date(r.dateCreated) = '2017-03-08' group by r.serviceID, r.paymentMode;
+
+
+tail -f /var/log/applications/zw/hub4/hubServices/PaymentPusherWrappers/PaymentPusherWrappersZW*
+
+
+
+0732 233 601 - Tapiwa.
+
+
+ssh psapi@zion.cellulant.com -p38000
+ssh everinyama@zion.cellulant.com -p38000
+
+ZION
+197.159.100.229
+pswd: 8ion95!
+
+Change Gear
+http://54.75.246.178/CGWeb/Main.aspx
+
+Username PatrickS
+Password is echo123
+
+
+stagingHUB
+
+ <entry key="DbUserName">paymentpusher_ke</entry>
+    <entry key="DbPassword">p@ym3ntpysh3r</entry>
+    <entry key="DbHost">KE-Hub4-DB1</entry>
+    <entry key="DbPort">3306</entry>
+    <entry key="DbName">hub_ke</entry>
+
+
+mysql -hKE-Hub4-DB -upaymentpusher_ke  -pp@ym3ntpysh3r hub_ke
+
+@d73Am0v5l 
+
+
+
+
+Stanbic wallet test 
+ssh psapi@10.1.7.227
+
+ssh root@196.8.145.151 password : c3llul@nt
+
+ssh root@196.8.145.148 TEST. 
+
+select * from cloudPackets weher MSISDN = '263775062181' order by 1 desc limit 5\G
+
+select * from s_payments where serviceID = '725' order by 1 desc limit 5\G
+
+ 
+========================================================================================================================
+
+run this query on 196.8.145.148 (test wallet)
+insert into merchants select null, merchantTypeID, reconNodeSystemID, null, 'EDGARS', 'EDGARS', reconMethodID, active, now(), insertedBy, now(), updatedBy, now() from merchants where merchantID = 20;
+
+
+insert into merchantAccounts select null, 49, serviceID, nodeSystemID, clientID, onloan, active, now(), '9140001481672', CollectionCharge, collectionChargeModeID, now(), insertedBy, now(), updatedBy from merchantAccounts where merchantID = 20;
+
+I get it now, it copies data from one table and inserts it into another
+=================================================================================================================
+
+365 Zesa daily performance report
+https://docs.google.com/spreadsheets/d/1Idyd9FYTfUY8d63VEDyV3NBU2LCfC0WM8IiFEiX-WFU/edit#gid=1430094374
+
+
+http://www.classifieds.co.zw/en
+Enock Verinyama cellulant
+vedzah95
+
+mysql -h10.250.250.44 -upaymentpusher_ke  -pp@ym3ntpysh3r hub_ke
+
+[12:20, 1/20/2017] Patrick Sapi: angela.centra@cellulant.com                        
+[12:20, 1/20/2017] Patrick Sapi: kihotians@263
+
+
+query to get unique customers for barclays
+
+select count(distinct(MSISDN)) from c_activities where accessPoint = '*229#' and responsePayload like '%Please enter your pin to continue. Forgot Pin ? Press 1%' and date(dateCreated) between '2017-01-01 00:00:00' and '2017-01-24 23:59:59'\G
+
+select count(distinct(MSISDN)) from c_activities where accessPoint = '*229#' and responsePayload like '%You have successfully migrated to upgraded system%' and date(dateCreated) between '2017-14-01 00:00:00' and '2017-02-01 23:59:59'\G
+
+select distinct(MSISDN) from c_activities where accessPoint = '*229#' and responsePayload like '%You have successfully migrated to upgraded system%' and date(dateCreated) between '2017-14-01 00:00:00' and '2017-02-01 23:59:59'\G
+
+
+
+
+
+
+mysql> select group_concat("",sr.requestlogid ,"") from s_requestLogs sr inner join s_services s on sr.serviceid=s.serviceid inner join s_payments p on sr.requestlogid=p.requestlogid inner join clients c on p.payerclientid=c.clientid where sr.overallstatus = 219  and s.serviceid = 10 and date(p.datecreated) between '2016-10-01 00:00:00' and '2016-11-01 00:00:00';
+
+
+interfaceTest .28
+@hubstaging4
+
+hubStaging .29
+new 3very
+
+
+=======================================================================================================================================================================================
+
+
+BARCLAYS SHM STATS
+.180
+
+cd  /var/log/applications/zw/hub4/hubChannels/ussd/SHM/
+
+cd /data/var/log/applications/zw/hub4/hubChannels/ussd/SHM
+
+grep 'You have successfully migrated to upgraded system' BarclaysCombinedTHM_SHM_SIMSWAP_menu.log |grep TAT_TIME  |sed 's/:.*//' |sort |uniq -c |awk '{print $2 " " $3 " " $1}'
+
+zgrep 'You have successfully migrated to upgraded system' BarclaysCombinedTHM_SHM_SIMSWAP_menu.log-20170407.gz |grep TAT_TIME  |sed 's/:.*//' |sort |uniq -c |awk '{print $2 " " $3 " " $1}'
+
+
+grep 'You have successfully registered for Mobile banking' BarclaysCombinedTHM_SHM_SIMSWAP_menu.log |grep TAT_TIME  |sed 's/:.*//' |sort |uniq -c |awk '{print $2 " " $3 " " $1}'
+
+zgrep 'You have successfully registered for Mobile banking' BarclaysCombinedTHM_SHM_SIMSWAP_menu.log-20170407.gz |grep TAT_TIME  |sed 's/:.*//' |sort |uniq -c |awk '{print $2 " " $3 " " $1}'
+
+
+=====================================================================================================================================================================================
+
+CPG STAGING
+
+http://197.159.100.247:9000/hub/client/index.php/sPayments/admin?SPayments%5BoverallStatus%5D=&SPayments%5BrequestLogID%5D=&SPayments%5BMSISDN%5D=&SPayments%5BpayerClientID%5D=&SPayments%5BcurrencyID%5D=146&SPayments%5BpayerTransactionID%5D=&SPayments%5BpaymentMode%5D=&SPayments%5BreceiptNumber%5D=&SPayments%5BamountPaid%5D=&SPayments%5BserviceID%5D=&SPayments%5BinvoiceNumber%5D=&SPayments%5BaccountNumber%5D=&SPayments%5BoriginatorClientID%5D=&SPayments%5BfromDate%5D=2016-11-28+12%3A39%3A11&SPayments%5BtoDate%5D=2016-11-29+12%3A39%3A11&SPayments%5BrequestOriginID%5D=&SPayments%5BmerchantTierID%5D=&SPayments%5Blower%5D=&SPayments%5Bupper%5D=&yt0=Search
+
+http://197.159.100.247:9000/hub/client/index.php/sPayments/admin
+http://197.159.100.247:9000/hub/client/index.php/sPayments/admin
+
+
+cellulant wallet
+
+user : services-admin-maker
+pwsd : lipuka
+
+register@hot.co.zw
+ 
+ hubStaging .29
+new 3v2nock!
+
+Stanbic staging Short Code
+*912#
+
+email/CPG
+@vedzah95!
+
+===============================================================================
+RUN QUERIES ON THIS SLAVE DB ALWAYS
+
+db under .178
+mysql -ueverinyama -h10.250.250.228 -p
+
+mysql -ueverinyama -h 10.1.7.232 hub_zw -p
+
+slave DB is on 
+mysql -u psapi -h10.250.250.232
+
+mysql -ueverinyama -h10.250.250.232 -pps@p143
+
+i meant .232
+
+
+mysql -u everinyama -h10.250.250.232 -pev3r16yma hub_zw -e "select distinct(MSISDN), date(dateCreated)  from c_activities where accessPoint = '*229#' and responsePayload like '%You have successfully migrated to upgraded system%' and date(dateCreated) between '2017-14-01 00:00:00' and '2017-02-01 23:59:59'" > Barclays_Migration_2SHM.xls
+on .178
+
+=================================================================================
+
+email/CPG
+@vedzah95!
+
+Local SERVER
+user - root
+pass - c3llul@nt
+
+TheSuperAdminAccount
+!23qweASD
+
+zion
+!23qweASD
+
+SERVER
+
+3nock95!
+
+.29
+c3llul@nt
+scp -P38000 /var/www/html-ke/hub/channels/ussdMenus/dynamic_menus/55_451_Cellulant_Zimbabwe_LTD_ussd_menu.php 10.1.1.3:
+
+scp -P38000 /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/BarclaysCombinedMenu_THM_SHM_SIMSWAP.php 10.1.1.3:
+
+scp -P38000 /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/BarclaysCombinedMenu_THM_SHM_SIMSWAP.php /home/everinyama/
+
+scp -P38000 everinyama@10.250.250.180:/var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/BarclaysCombinedMenu_THM_SHM_SIMSWAP.php
+
+
+tail -f /var/log/applications/ke/hub4/hubServices/validationWrappers/*.log
+
+==================================================================================================================================================================
+
+
+Do likewise on this for DovesPaymentProcessor
+vim /var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/DovesValidationProcessor.php
+
+scp -P38000 /var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/DovesValidationProcessor.php /home/everinyama/
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/DovesValidationProcessor.php /home/everinyama/
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/DovesValidationProcessor.php /home/everinyama/
+
+
+
+===================================================================================================================================================================
+16/02
+/var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/ZukuProcessor.
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/ZukuProcessor.php /home/everinyama/
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/TeloneQueryBillProcessor.php /home/everinyama/
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/DstvQueryBillProcessor.php /home/everinyama/
+
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/HotRechargeProcessor.php /home/everinyama/
+
+
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/Doves
+
+scp -P38000 everinyama@10.250.250.180:/var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/BarclaysCombinedMenu_THM_SHM_SIMSWAP.php
+
+
+scp -P38000 /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/BarclaysCombinedMenu_THM_SHM_SIMSWAP.php 197.159.100.229:
+
+scp -P38000 /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/7_4_Stanbic_Bank_Zimbabwe_ussd_menu.php  197.159.100.229:
+
+
+scp everinyama@10.1.7.148:/apps/zw/hub4/daemons/TELECELZWH4 ~
+
+
+tail -f /var/log/httpd/h4.cellulant.com-error_log
+
+tail -f /var/log/httpd/9013.ke.cellulant.com-error_log
+
+tail -f /var/log/httpd/error_log
+
+tail -f /var/log/httpd/h4.cellulant.com-error_log
+
+tail -f /var/log/httpd/zw-h4.cellulant.com-access_log
+
+
+QueryProcessor.php /home/everinyama/
+
+scp -P38000 psapi@10.250.250.29:/var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/ZBQueryBillProcessor.php /home/psapi/
+
+scp -P38000 everinyama@10.250.250.29:queryBill.php /home/everinyama/
+
+
+scp -P38000 pasapi@10.250.250.29:/var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/DstvQueryBillProcessor.php /home/psapi/
+
+
+/var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/ZukuProcessor.php
+
+scp /home/everinyama/TeloneQueryBillProcessor.php /var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/
+
+scp /home/psapi/DstvQueryBillProcessor.php /var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/
+
+scp /home/everinyama/TeloneQueryBillProcessor.php /var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/TeloneQueryBillProcessor.php
+
+scp /home/everinyama/HotRechargeProcessor.php /var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/HotRechargeProcessor_BAK_22032017.php
+
+scp /home/everinyama/HotRechargeProcessor.php /var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/HotRechargeProcessor.php
+
+
+
+
+sudo cp HotRechargeProcessor.php /var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/
+
+sudo cp HotRechargeConfig.php /var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/lib/integrationConfigs/
+
+cp /var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/lib/integrationConfigs/HotRechargeConfig.php /var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/lib/integrationConfigs/HotRechargeConfig_bak_24042017.php
+
+
+
+
+
+sudo cp DovesPaymentProcessor.php /var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/
+
+sudo cp DovesValidationProcessor.php /var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/
+
+@hub4staging#
+
+sudo cp DovesPaymentProcessor.php /var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/
+
+
+
+sudo cp DovesQueryProcessor.php /var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/
+
+sudo cp DovesConfig.php /var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/lib/integrationConfigs/
+
+
+
+sudo cp DovesConfig.php /var/www/html-ke/hub/services/wrappers/ValidationWrappers/lib/integrationConfigs/
+
+tail -f /var/log/applications/ke/hub4/hubServices/queryBillWrappers/*.log
+
+tail -f /var/log/applications/ke/hub4/hubServices/PaymentPusherWrappers/*.log
+
+
+tail -f /var/log/applications/ke/hub4/hubServices/ValidationWrappers/*.log
+
+ls -l var/www/html-ke/hub/services/wrappers/ValidationWrappers/
+/var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/ZOLValidationProcessor.php
+
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/ZBValidationProcessor.php /home/everinyama/
+
+scp -P38000 DovesValidationProcessor.php 10.250.250.29: 
+
+
+scp -P38000 dstvwhitelist.php 10.250.250.29:
+scp -P38000 10.250.250.29:dstvwhitelist.php /var/www/html-ke/hub/channels/ussdMenus/dynamic_menus/
+
+
+
+scp -P38000 10.250.250.29:DovesProcessor.php /var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/
+
+
+scp -P38000 10.250.250.29:HotRechargeProcessor.php /var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses
+
+
+
+nano /var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/lib/Config.php
+
+
+
+nano /var/www/html-ke/hub/services/daemons/PaymentPusher/conf/PaymentPusherConfigs.xml
+<entry key="PaymentServiceIDs">135,409</entry>
+
+
+
+
+
+
+sudo scp HotRechargeProcessor.php /var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/
+
+
+
+scp -P38000 TeloneQueryBillProcessor.php 10.250.250.29:
+scp -P38000 DstvQueryBillProcessor.php 10.250.250.29:
+
+scp -P38000 DovesProcessor.php 10.250.250.29:
+scp -P38000 DovesConfig.php 10.250.250.29:
+
+scp -P38000 dovesBill.php 10.250.250.29:
+
+scp -P38000 DovesPaymentProcessor.php 10.250.250.29:
+
+scp -P38000 DovesConfig.php 10.250.250.29:
+
+scp -P38000 HotRechargeProcessor.php 10.250.250.29:
+scp HotRechargeProcessor.php 10.250.250.29:
+
+scp -P38000 DovesValidationProcessorTEST.php 10.250.250.29:
+
+scp -P38000 DovesUtest.php 10.250.250.29:
+
+
+@hub4staging#
+scp -P38000 10.250.250.29:DovesProcessor.php /var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/
+
+
+
+sudo scp /home/everinyama/DstvQueryBillProcessor.php /var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/
+
+scp /home/everinyama/TeloneQueryBillProcessor.php /var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/TeloneQueryBillProcessor.php
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/TeloneQueryBillProcessor.php /home/everinyama/
+
+
+/var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/lib/integrationConfigs/EdgarsConfig.php
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/lib/integrationConfigs/EdgarsConfig.php /home/everinyama/
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/EdgarsPaymentProcessor.php /home/everinyama/
+
+
+scp -P38000 psapi@10.250.250.29:edgarsTest.php /home/psapi/
+
+scp -P38000 psapi@10.250.250.29:testPowertel.php /home/psapi/
+
+scp -P38000 psapi@10.250.250.29:ZolTestPayment.php /home/psapi/
+
+scp -P38000 psapi@10.250.250.29:/var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/PowerTelPaymentProcessor.php /home/psapi/
+
+
+====================================================================================================================================================================================
+
+$ cp file.doc newfile.doc
+$ ls -l *.doc
+
+
+cp /var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/HotRechargeProcessor.php /var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/HotRechargeProcessor_bak_24042017.php
+
+ls -l
+
+scp /home/everinyama/HotRechargeProcessor.php everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/
+
+
+
+cp /var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/TeloneValidationProcessor.php /var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/TeloneValidationProcessor_bak_16022017.php
+
+scp /var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/TeloneValidationProcessor.php /var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/TeloneValidationProcessor_bak_16022017.php
+ls /var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/TeloneValidationProcessor.php
+
+scp /home/everinyama/TeloneQueryBillProcessor everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/
+===========================================================================================================================================================
+MOVE
+mv /home/user/Files/filename1.ext /home/user/Files/filename2.ext
+sudo mv /var/www/html-ke/hub/services/wrappers/ValidationWrappers/lib/integrationLibs/MCALibrary/MCACCLibrary.php /var/www/html-ke/hub/services/wrappers/queryBillWrappers/lib/integrationLibs/MCALibrary/MCACCLibrary.php_bak_24022017.php
+
+
+sudo cp /var/www/html-ke/hub/services/wrappers/queryBillWrappers/lib/integrationLibs/MCALibrary/MultiChoiceCustomerCare.php /var/www/html-ke/hub/services/wrappers/queryBillWrappers/lib/integrationLibs/MCALibrary/MultiChoiceCustomerCare_Bak_24022017.php
+
+MultiChoiceCustomerCare.php
+
+sudo cp /var/www/html-ke/hub/services/wrappers/queryBillWrappers/lib/integrationLibs/MCALibrary/MCACCLibrary.php_bak_24022017_2.php /var/www/html-ke/hub/services/wrappers/queryBillWrappers/lib/integrationLibs/MCALibrary/MCACCLibrary.php
+======================================================================================================================================================================================
+scp -P38000 everinyama@10.250.250.29:/var/www/html-hub42/hub/channels/ussdMenus/dynamic_menus/419_481_SBA_Panama_ussd_menu.php /home/everinyama/
+
+
+scp -P38000 everinyama@10.250.250.180:/var/log/applications/zw/hub4/channels/ussdMenus/dynamic_menus/7_4_Stanbic_Bank_Zimbabwe_ussd_menu /home/everinyama/
+
+scp -P38000 everinyama@10.250.250.180:/var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/7_4_Stanbic_Bank_Zimbabwe_ussd_menu.php /home/everinyama/
+
+scp -P38000 everinyama@10.250.250.180:/var/www/html-zw/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/TelonePaymentProcessor.php /home/everinyama/
+
+
+
+UAT (url to invoke the validation)  ==> 
+
+
+//http://localhost:9000/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/NWCProcessor.php
+//$client = new SoapClient("http://197.159.100.249:10002/BeepSoapAPIv2/HubAPI?wsdl"); //for payments
+$client = new SoapClient("http://localhost:10002/BeepSoapAPIv2/ValidationAPI?wsdl"); //for presentments
+//$client = new SoapClient("http://10.250.250.29:10002/BeepSoapAPIv2/ValidationAPI?wsdl"); //for presentments
+//$client = new SoapClient("http://10.250.250.178:10001/BeepSoapAPIv2/ValidationAPI?wsdl");
+    //xmlclient = new IXR_Client('http://197.159.100.249:9000/hub/services/paymentGateway/XML/index.php');
+    //$xmlclient->query('BEEP.queryBill', $payload);
+    //$response = $xmlclient->getResponse();
+
+$result = $client->queryBill($Arguments);
+
+
+======================================================================================================================================================================================
+.180
+scp -P38000 /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/7_4_Stanbic_Bank_Zimbabwe_ussd_menu.php 10.1.1.3:
+
+scp -P38000 /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/7_8_Stanbic_Bank_Zimbabwe_ussd_menu.php 10.1.1.3:
+
+scp -P38000 /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/7_4_Stanbic_Bank_Zimbabwe_ussd_menu.php 10.1.1.3:
+
+scp -P38000 /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/7_4_Stanbic_Bank_Zimbabwe_ussd_menu.php 10.1.1.3:
+
+
+
+
+scp -P38000 /var/www/html-zw/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/HotRechargeProcessor.php 10.1.1.3:
+
+scp -P38000 /var/www/html-zw/hub/services/wrappers/PaymentPusherWrappers/lib/integrationConfigs/HotRechargeConfig.php 10.1.1.3:
+
+scp -P38000 /var/www/html-zw/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/ZBPaymentProcessor.php 10.1.1.3:
+
+scp -P38000 /var/www/html-zw/hub/services/wrappers/PaymentPusherWrappers/lib/integrationConfigs/ZESAZBConfig.php 10.1.1.3:
+
+scp -P38000 /var/www/html-zw/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/ZBValidationProcessor.php 10.1.1.3:
+
+scp -P38000 /var/www/html-zw/hub/services/wrappers/ValidationWrappers/lib/integrationConfigs/ZESAZBConfig.php 10.1.1.3:
+
+scp -P38000 /var/www/html-zw/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/ZBPaymentProcessor.php 10.1.1.3:
+
+scp -P38000 /var/www/html-zw/hub/services/wrappers/ValidationWrappers/lib/integrationConfigs/ZESAZBConfig.php 10.1.1.3:
+
+
+scp -P38000 /var/www/html-zw/hub/services/wrappers/ValidationWrappers/lib/integrationConfigs/ZESAZBConfig.php 197.159.100.229:
+
+scp -P38000 /var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/ZBValidationProcessorTEST.php 197.159.100.229:
+
+
+================================================================================================================================================
+
+
+scp -P38000 /var/www/html-zw/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/HotRechargeProcessor.php 197.159.100.229:
+
+scp -P38000 /var/www/html-gh/hub/channels/ussdMenus/dynamic_menus/12_3_Multichoice_Ghana_ussd_menu.php 197.159.100.229:
+
+scp -P38000 /var/www/html-gh/hub/channels/ussdMenus/configs/dstvGHSelfService.php 197.159.100.229:
+
+scp P38000 /var/www/ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/HotRechargeProcessor.php 197.159.100.229:
+
+
+scp -P38000 /home/everinyama/DSTV-TEST-SCRIPT.php 197.159.100.229:
+
+
+
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/HotRechargeProcessor.php /home/everinyama/
+
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/ZBValidationProcessorTEST.php /home/everinyama/
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/ZBPaymentProcessor.php /home/everinyama/
+
+
+
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/src/IntegrationClasses/DovesPaymentProcessor.php /home/everinyama/
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/ValidationWrappers/src/IntegrationClasses/DovesValidationProcessor.php /home/everinyama/
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/PaymentPusherWrappers/lib/integrationConfigs/DovesConfig.php
+
+
+
+
+
+
+scp -P38000 everinyama@10.250.250.29:/var/www/html-ke/hub/services/wrappers/queryBillWrappers/src/IntegrationClasses/TeloneQueryBillProcessor.php /home/everinyama/
+
+
+scp -P38000 /home/everinyama/Barclays_Migration_2SHM.xls 10.1.1.3:
+
+
+select * from activationRequests where MSISDN = '263773389623' order by 1 desc limit 1\G
+
+zcat /data/var/log/applications/zw/hub4/hubServices/PaymentPusherWrappers/* | grep '2016-12-15 18:02:52'
+
+
+cat /var/log/applications/zw/hub4/hubServices/PaymentPusher/PaymentPusherInfo.* | grep 'MP170201.1257.B03846'
+cat /var/log/applications/zw/hub4/hubServices/PaymentPusher/PaymentPusherInfo.* | grep 'SBAZIM2133603'
+
+======================================================================================================================
+
+select group_concat("",r.requestLogID ,"") from s_requestLogs r inner join s_payments p on r.requestLogID = p.requestLogID where r.serviceID = 18 and date(r.dateCreated) between '2017-04-20' and  '2017-04-30' and r.overallStatus = 141 and p.receiverNarration like '%Transaction rejected: Service barred%' order by 1 desc\G
+
+mysql> select group_concat("",r.requestLogID ,"") from s_requestLogs r inner join s_payments p on r.requestLogID = p.requestLogID where r.serviceID = 18 and date(r.dateCreated) between '2017-04-20' and  '2017-04-30' and r.overallStatus = 141 and p.receiverNarration like '%Transaction rejected: Service barred%' order by 1 desc\G
+*************************** 1. row ***************************
+group_concat("",r.requestLogID ,""): 3259619,3263077,3263691,3263911,3264257,3265558,3265988,3266618,3270821,3270850,3272220,3277854,3279156,3281562,3283928,3287893
+1 row in set (0.02 sec)
+
+
+
+======================================================================================================================
+
+
+http://tomi.telone.co.zw/api/production/backOfficeBETA/transactions/index
+http://tomi.telone.co.zw/api/production/backOffice/
+http://tomi.telone.co.zw/api/production/backOfficeBETA/
+
+username: CellulantStanbic
+pswd: s@5HW39qnRFt
+
+username :Cellulant
+pswd: uy@dR9vg1qHR=
+
+
+SHM .180
+
+/var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/BarclaysCombinedMenu_THM_SHM_SIMSWAP.php 
+
+
+
+live
+
+.148
+
+menu location is /var/www/html-zw/hub/ussdInterfaces/ZW/zw-econetSDP/ECONETSuperInterface.php on .148
+
+ECONET HUB4 Barclays .148
+application path : /apps/zw/hub4/daemons/ECONETH4
+
+sudo chmod +x 
+
+tail -f /var/log/applications/zw/hub4/hubChannels/ussd/USSDZW_INFO.log
+
+SHM Logs
+tail -f /var/log/applications/zw/hub4/hubChannels/ussd/SHM/BarclaysCombinedTHM_SHM_SIMSWAP_menu.log
+
+
+cd /data/var/log/applications/zw/hub4/hubChannels/ussd/SHM
+zgrep 'You have successfully migrated to upgraded system' BarclaysCombinedTHM_SHM_SIMSWAP_menu.log-20170304.gz |grep TAT_TIME  |sed 's/:.*//' |sort |uniq -c |awk '{print $2 " " $3 " " $1}'
+
+
+
+Logs :
+/var/log/applications/zw/hubServices/daemons/Econet/ECONET_Error.log
+/var/log/applications/zw/hubServices/daemons/Econet/ECONET_Info.log
+
+Telecel Internet Banking 
+app : /apps/zw/hub4/daemons/TELECEL
+ Logs : /var/log/applications/zw/hubServices/daemons/Telecel/Telecel_internetBanking_info.log        
+ /var/log/applications/zw/hubServices/daemons/Telecel/Telecel_internetBanking_error.log
+ 
+Telecel Mobile Banking
+app : /apps/zw/hub4/daemons/TELECELMB
+
+
+cat /var/log/applications/zw/hubServices/daemons/TelecelMB/telecel_mobileBanking_info.log       
+ /var/log/applications/zw/hubServices/daemons/TelecelMB/telecel_mobileBanking_error.log
+
+zion
+enockV95#
+
+.180
+ssh everinyama@10.250.250.180
+@vedzah95#
+
+menu 65 & 47
+
+
+tail -f /var/log/applications/zw/hub4/hubServices/PaymentPusher/PaymentPusherInfo.* | grep ''
+
+
+cat /var/log/applications/zw/hub4/hubServices/PaymentPusher/PaymentPusherInfo.* | grep 'SBAZIM1834433'
+ls /var/log/applications/zw/hub4/hubServices/PaymentPusher/PaymentPusherInfo.*
+
+cat /var/log/applications/zw/hub4/hubServices/PaymentPusher/PaymentPusherInfo.log-20170120.gz | grep 'SBAZIM1834433'
+
+
+zcat /data/var/log/applications/zw/hub4/hubServices/PaymentPusher/PaymentPusherInfo.* | grep 'SBAZIM1995747'
+
+ls /data/var/log/applications/zw/hub4/hubServices/PaymentPusherWrappers/PaymentPusherWrappersZW*
+
+cat /var/log/applications/zw/hub4/hubServices/PaymentPusherWrappers/PaymentPusherWrappersZW_info.log-20170120.gz | grep 'SBAZIM1834433'
+
+
+cat /data/var/log/applications/zw/hub4/hubServices/PaymentPusherWrappers/PaymentPusherWrappersZW_info.log-20170119.gz | grep 'SBAZIM1834433' 
+
+
+
+zcat /data/var/log/applications/zw/hub4/hubServices/PaymentPusherWrappers/PaymentPusherWrappersZW* | grep 'SBAZIM1650547'
+
+
+
+
+//
+//payment pusher wrapper .180
+//telone search for transaction to check for the status
+cat /var/log/applications/zw/hub4/hubServices/PaymentPusherWrappers/PaymentPusherWrappersZW_*.log | grep '1433890'
+
+cat /var/log/applications/zw/hub4/hubServices/PaymentPusherWrappers/PaymentPusherWrappersZW_* | grep '263773688173'
+
+//payment pusher wrapper .180
+tail -f /var/log/applications/zw/hub4/hubServices/PaymentPusherWrappers/*.log
+
+//validation wrapper .180
+tail -f /var/log/applications/zw/hub4/hubServices/validationWrappers/*.log
+
+cat /var/log/applications/zw/hub4/hubServices/PaymentPusherWrappers/PaymentPusherWrappersZW_* | grep '773687408'
+
+validations telone
+//validation wrapper .180
+
+cat /var/log/applications/zw/hub4/hubServices/PaymentPusherWrappers/PaymentPusherWrappersZW_* | grep '263773688173'
+
+
+mysql> select * from s_payments where requestLogID = 1543304\G
+mysql> select * from s_payments where requestLogID = 1543304\G
+
+
+run this cmd scp -P38000 everinyama@10.250.250.29:/var/www/html-hub42/hub/channels/ussdMenus/dynamic_menus/419_481_SBA_Panama_ussd_menu.php /home/everinyama/
+
+what of /var/log/applications/zw/hub4/hubServices/core/info.log
+
+
+.164
+/var/log/applications/zw/hub4/hubServices/core/info.log
+tail -f /var/log/applications/zw/hub4/hubServices/Ecocash/*.log | grep '263773389623'
+/var/log/applications/zw/hub4/hubServices/Ecocash/*.log | grep '263775988327'
+
+
+ /var/log/applications/zw/hub4/hubServices/Ecocash/
+ 
+ /var/log/applications/zw/hub4/hubServices/Ecocash/ecocashcallback_info.log
+ 
+ /var/log/applications/zw/hub4/hubServices/Ecocash/ecocashcallback_error.log
+
+ 
+tail -f /var/log/applications/ke/hub4/hubServices/core/info.log
+
+
+update merchants set beepServiceID = 13 where merchantCode = 'ZESA'; 
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+
+
+
+http://www.emp3z.co/download/3w0yqAdJ1iY/usher-no-limit-ft-young-thug.html
+
+
+.226
+ tail -f  /etc/emg/log/pdu.SMPP-ZW-TELECEL-USSD1 /etc/emg/log/pdu.SMPP-ZW-TELECEL-USSD2
+ 
+ tail -f /etc/emg/log/pdu.SMPP-ZW-TELECEL-USSD1 /etc/emg/log/pdu.SMPP-ZW-TELECEL-USSD2 | grep '263732125874'
+
+.178
+ssh everinyama@10.250.250.178
+JuPxA5ichp0f2
+
+338 940 - 3 dengu
+ 04 0251369 angela
+
+zion
+enockV95#
+
+
+365 Zesa daily performance report
+https://docs.google.com/spreadsheets/d/1Idyd9FYTfUY8d63VEDyV3NBU2LCfC0WM8IiFEiX-WFU/edit#gid=1430094374
+
+.77
+ssh psapi@10.250.250.77
+tail -f /var/log/applications/zw/walletTouchAPIs/index/*
+db@enock#
+
+db under .178
+mysql -ueverinyama -h10.250.250.228 -p
+ev3r16yma
+
+email/CPG
+@vedzah95!
+
+//stanbic menu log .180
+tail -f /var/log/applications/zw/hub4/hubChannels/ussd/*.log
+tail -f /var/log/applications/ke/hub4/hubChannels/ussd/*.log
+
+
+
+[11:00:22] Samuel Gachanja: ssh 10.250.250.180
+[11:00:29] Samuel Gachanja: cd /var/log/applications/zw/hub4/hubServices/core
+[11:00:38] Samuel Gachanja:  grep 263717591897 -A 2 *log --color
+
+4445794000514318
+
+
+
+[everinyama@SCNBOISCA1 ~]$ zcat /data/var/log/applications/zw/hub4/hubServices/PaymentPusherWrappers/PaymentPusherWrappersZW* | grep 'SBAZIM1834433'
+
+/var/log/applications/zw/hub4/channels/ussdMenus/dynamic_menus/7_4_Stanbic_Bank_Zimbabwe_ussd_menu
+
+ls /var/log/applications/zw/hub4/hubServices/PaymentPusherWrappers
+debug.log  fatal.log  PaymentPusherWrappersTZ_info.log   PaymentPusherWrappersZW_debug.log-20161006  PaymentPusherWrappersZW_error.log-20161006  PaymentPusherWrappersZW_info.log
+error.log  info.log   PaymentPusherWrappersZW_debug.log  PaymentPusherWrappersZW_error.log           PaymentPusherWrappersZW_fatal.log           PaymentPusherWrappersZW_info.log-20161006
+[everinyama@SCNBOISCA1 ~]$ cat /var/log/applications/zw/hub4/hubServices/PaymentPusherWrappers/PaymentPusherWrappersZW_* | grep '1433890'
+
+scp -P38000 /var/www/html-zw/hub/ussdInterfaces/ZW/zw-econetSDP/ECONETSuperInterface.php 10.1.1.3:
+scp -P38000 /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/55_451_Cellulant_Zimbabwe_LTD_ussd_menu.php 10.1.1.3:
+
+scp -P38000 /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/7_4_Stanbic_Bank_Zimbabwe_ussd_menu.php 10.1.1.3:
+scp -P38000 /var/www/html-zw/hub/channels/ussdMenus/dynamic_menus/7_4_Stanbic_Bank_Zimbabwe_ussd_menu.php 10.1.1.3:
+
+
+
+
+msyql -uroot -pc3llul@nt wallet_development < /srv/applications/DBBACKUP/stanbic_wallet_18Nov2016.bak;
+
+DAEMONS
+locate   locate -b ‘\mydata’
+/etc/init.d/<daemon name> start | restart | stop
